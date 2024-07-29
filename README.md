@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shehraz Sarwar, a dedicated and ambitious software engineering student at FAST National University. I have honed my video editing skills and mastered YouTube SEO. In addition to this, I have strong programming skills in C/C++ and valuable time management and problem-solving skills. I am passionate about technology and continuously seek to improve my knowledge and skills. My goal is to become a proficient software engineer and contribute to a top tech company in the future. I am committed to hard work, continuous learning, and achieving excellence in my field.
+I am Shehraz Sarwar, a dedicated and ambitious software engineering student at FAST National University. I have honed my video editing skills and mastered YouTube SEO. In addition to this, I have strong programming skills in C/C++ and valuable time management and problem-solving skills. I am passionate about technology and continuously seek to improve my knowledge and skills. My goal is to become a proficient software engineer and a UI/UX designer and contribute to a top tech company in the future. I am committed to hard work, continuous learning, and achieving excellence in my field.
 
 
 ## 🌐 Socials:
