@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🚀 About Me:
 Passionate Computer Scientist with a deep interest in technology. I am currently a student at IUGC and a former Silver Medalist at FAST National University. Exploring the power of Python, along with Data Science and AI, I aim to enhance my knowledge of emerging technologies. I have expertise in C, C++, and Java, having completed several projects that strengthen my problem-solving skills.
 
 Mathematics fascinates me, especially its applications in Computer Science. While studying math courses at university, I either implement concepts through coding or explore their real-world applications. I believe that learning becomes meaningful when approached differently. Earning a degree isn't just about grades, but about truly understanding how computers work and how they have evolved over the years.
